@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://homesetuppicks.co.uk/sitemap.xml

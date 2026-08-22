@@ -1,0 +1,17 @@
+﻿products_needed_v1.json
+
+# local build logs/evidence (must never be published)
+data/
+
+
+assets.rar
+
+
+# Node / Playwright local artifacts (do not commit)
+node_modules/
+package-lock.json
+package.json
+
+# Build/edit backup snapshots (kept locally, never published)
+*.bak_*
+

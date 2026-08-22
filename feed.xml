@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Home Setup Picks</title>
+  <link>https://homesetuppicks.co.uk/</link>
+  <atom:link href="https://homesetuppicks.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+  <description>Independent UK buying guides for standing desks, office chairs, monitor arms, desk accessories and call gear. Spec-checked, with hands-on notes where we own the product.</description>
+  <language>en-GB</language>
+  <lastBuildDate>Sat, 22 Aug 2026 10:30:00 +0000</lastBuildDate>
+</channel>
+</rss>
