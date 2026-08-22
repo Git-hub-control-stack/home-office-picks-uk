@@ -7,4 +7,4 @@ Updated 2026-08-22 via fetch_heroes.py
 accessories.jpg  Josh Sorenson  https://www.pexels.com/photo/black-flat-screen-computer-monitor-1714208/
 audio.jpg  Melike  B  https://www.pexels.com/photo/white-apple-airpods-on-macbook-10357008/
 chairs.jpg  Alpha En  https://www.pexels.com/photo/modern-home-office-with-ergonomic-chair-31726663/
-desks.jpg  Mikhail Nilov  https://www.pexels.com/photo/a-woman-using-laptop-while-holding-document-8872758/
+desks.jpg  Pavel Danilyuk  https://www.pexels.com/photo/a-monitor-on-a-height-adjustable-desk-8001036/
