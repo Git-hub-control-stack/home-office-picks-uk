@@ -188,13 +188,14 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
   background:
     radial-gradient(700px 320px at 15% 0%, rgba(255,251,235,.55), transparent 60%),
     radial-gradient(600px 300px at 90% 110%, rgba(245,158,11,.18), transparent 55%),
-    linear-gradient(150deg, #c9b18f 0%, #bfa77f 55%, #b29a70 100%);
+    linear-gradient(150deg, #c9b18f 0%, #b89e73 55%, #a98d60 100%);
   padding: 26px 20px 22px;
   text-align: center;
 }
 .home-hero h1 {
   font-size: clamp(30px, 5.5vw, 46px);
-  font-weight: 800; color: #3b2f1f;
+  font-weight: 800; color: #fff8ea;
+  text-shadow: 0 1px 3px rgba(59,47,31,.35);
   letter-spacing: -0.03em; margin: 0 0 10px; line-height: 1.08;
   text-wrap: balance;
 }
