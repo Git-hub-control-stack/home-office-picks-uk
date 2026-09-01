@@ -824,33 +824,11 @@ body.sticky-dismissed .sticky-cta { display: none; }
 .back-to-top:hover { opacity: 1; background: var(--blue); }
 .back-to-top.above-sticky { bottom: 78px; }
 
-/* -- Sand identity: dark-mode header/hero (2026-09-01) ----------- */
-/* The light theme puts a sand bar behind white brand text; on dark   */
-/* pages those surfaces flip to warm espresso with cream text.        */
-[data-theme="dark"] .site-header {
-  background: linear-gradient(180deg, #352a20 0%, #2a2118 100%);
-  border-bottom: 1px solid rgba(247,240,225,.10);
-  box-shadow: 0 2px 16px rgba(0,0,0,.5);
-}
-[data-theme="dark"] .back-link { color: #ede4d3; }
-[data-theme="dark"] .back-link:hover { color: #ffffff; }
-[data-theme="dark"] .site-nav a { color: #cfc2ab; }
-[data-theme="dark"] .site-nav a:hover { background: rgba(247,240,225,.12); color: #ffffff; }
-[data-theme="dark"] .theme-toggle {
-  background: rgba(247,240,225,.10); border-color: rgba(247,240,225,.20); color: #ede4d3;
-}
-[data-theme="dark"] .theme-toggle:hover { background: rgba(247,240,225,.20); }
-[data-theme="dark"] .home-hero {
-  background:
-    radial-gradient(700px 320px at 15% 0%, rgba(133,109,78,.50), transparent 60%),
-    radial-gradient(600px 300px at 90% 110%, rgba(245,158,11,.12), transparent 55%),
-    linear-gradient(150deg, #3b3021 0%, #322820 55%, #2a2118 100%);
-}
-[data-theme="dark"] .home-hero h1 { color: #f8f1e2; }
-[data-theme="dark"] .home-hero p { color: #cfc2ab; }
-[data-theme="dark"] .hero-cat {
-  background: rgba(247,240,225,.08); color: #ede4d3; border-color: rgba(247,240,225,.18);
-}
-[data-theme="dark"] .hero-cat:hover {
-  background: rgba(247,240,225,.16); border-color: rgba(247,240,225,.35); color: #ffffff;
-}
+/* -- Sand identity, dark mode v3 (operator direction 2026-09-01) -- */
+/* The sand header and home hero stay EXACTLY as in light mode - the  */
+/* brand bar is constant across themes. Dark mode dims only the page  */
+/* body (lifted warm browns + bright cream text, set in the dark var  */
+/* block above). No header/hero overrides on purpose; the home hero   */
+/* keeps its light-mode espresso-on-sand text rules.                  */
+[data-theme="dark"] .home-hero h1 { color: #3b2f1f; }
+[data-theme="dark"] .home-hero p { color: #4a3a22; }
