@@ -8,7 +8,7 @@
 
   function metaTheme() {
     var m = document.querySelector('meta[name="theme-color"]');
-    if (m) m.setAttribute("content", html.getAttribute("data-theme") === "dark" ? "#0b1220" : "#172554");
+    if (m) m.setAttribute("content", html.getAttribute("data-theme") === "dark" ? "#1b1510" : "#c9b18f");
   }
   function icon(btn) {
     btn.innerHTML = html.getAttribute("data-theme") === "dark" ? SUN : MOON;
