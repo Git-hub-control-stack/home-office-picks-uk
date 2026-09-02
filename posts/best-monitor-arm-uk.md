@@ -24,7 +24,7 @@ The HUANUO covers the widest slice of real desks, which is why it leads. Its lis
 **Who it's for:** Anyone putting one ordinary monitor at eye level without fuss - the sensible default.
 **Who it's not for:** Owners of heavy ultrawides, who should weigh their panel and read the premium pick.
 
-[Check price](https://www.amazon.co.uk/dp/B07T3KCQ94?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07T3KCQ94?linkCode=ll2&tag=homesetuppicks-21)
 
 ---
 
@@ -47,7 +47,7 @@ The honest budget case: if your monitor is a common size and your desk has a nor
 **Who it's for:** One everyday monitor, a normal desk edge, and a preference for spending less.
 **Who it's not for:** Anyone with a heavy or unusual monitor - buy an arm that publishes its ratings.
 
-[Check price](https://www.amazon.co.uk/dp/B07DHK5DHN?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07DHK5DHN?linkCode=ll2&tag=homesetuppicks-21)
 
 ---
 
@@ -71,13 +71,13 @@ The LX is the arm you buy when the numbers have to stretch furthest. Ergotron ra
 **Who it's for:** Ultrawide and heavy-panel owners, and anyone who wants the arm bought once and forgotten.
 **Who it's not for:** A standard 24-27in monitor on a budget - the savings belong elsewhere in your setup.
 
-[Check price](https://www.amazon.co.uk/dp/B07Q8TJ2KL?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07Q8TJ2KL?linkCode=ll2&tag=homesetuppicks-21)
 
 ---
 
 ## Quick verdict
 
-For most desks the **[HUANUO Single Monitor Arm (13-32in, 9kg, VESA 75/100)](https://www.amazon.co.uk/dp/B07T3KCQ94?linkCode=ll2&tag=souvlakia-21)** is the arm to buy: the widest practical fit for ordinary monitors, tool-free adjustment, and both mounting routes listed. The budget route asks one question first - is your monitor nothing unusual? If so, the **[Amazon Basics Single Monitor Stand (Height Adjustable Arm, Steel)](https://www.amazon.co.uk/dp/B07DHK5DHN?linkCode=ll2&tag=souvlakia-21)** does the eye-level job in steel for less. And if you're hanging an ultrawide or simply want the arm with the decade-long warranty, it's the **[Ergotron LX Premium Monitor Arm (34in, 3.2-11.3kg)](https://www.amazon.co.uk/dp/B07Q8TJ2KL?linkCode=ll2&tag=souvlakia-21)**.
+For most desks the **[HUANUO Single Monitor Arm (13-32in, 9kg, VESA 75/100)](https://www.amazon.co.uk/dp/B07T3KCQ94?linkCode=ll2&tag=homesetuppicks-21)** is the arm to buy: the widest practical fit for ordinary monitors, tool-free adjustment, and both mounting routes listed. The budget route asks one question first - is your monitor nothing unusual? If so, the **[Amazon Basics Single Monitor Stand (Height Adjustable Arm, Steel)](https://www.amazon.co.uk/dp/B07DHK5DHN?linkCode=ll2&tag=homesetuppicks-21)** does the eye-level job in steel for less. And if you're hanging an ultrawide or simply want the arm with the decade-long warranty, it's the **[Ergotron LX Premium Monitor Arm (34in, 3.2-11.3kg)](https://www.amazon.co.uk/dp/B07Q8TJ2KL?linkCode=ll2&tag=homesetuppicks-21)**.
 
 ## Check the three numbers before you buy
 
