@@ -6,7 +6,7 @@ A desk goes untidy in two different places, and they want two different purchase
 
 ### 1. Nordik Leather Desk Mat (Pebble Black, 89x43cm) - Best Overall
 
-**HSP Score: 7.1 / 10** - Large leather desk pad, 89x43cm. The one surface both hands land on.
+**HSP Score: 8.5 / 10** - Large leather desk pad, 89x43cm. The one surface both hands land on.
 
 Scorecard: Capability 8/10 - Versatility 6/10 - Build 6/10 - Value 8/10
 
@@ -30,7 +30,7 @@ The Nordik earns its place on footprint. Its listing gives the size as 89x43cm a
 
 ### 2. D-Line Cable Tidy Box Large (415mm, Black) - Best for Cable Management
 
-**HSP Score: 6.2 / 10** - Hides an extension block and its slack. Where the mess actually starts.
+**HSP Score: 8.1 / 10** - Hides an extension block and its slack. Where the mess actually starts.
 
 Scorecard: Capability 6/10 - Versatility 6/10 - Build 6/10 - Value 7/10
 
