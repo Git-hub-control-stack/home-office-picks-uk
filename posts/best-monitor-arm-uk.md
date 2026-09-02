@@ -85,6 +85,8 @@ For most desks the **[HUANUO Single Monitor Arm (13-32in, 9kg, VESA 75/100)](htt
 2. **Panel weight.** It's in your monitor's spec sheet, stand excluded. Compare it to the arm's published rating and leave headroom: an arm loaded to its ceiling drifts and sags sooner than one cruising at half load.
 3. **Desk edge.** A clamp needs a few centimetres of clear, solid edge - not glass, and not on top of a cross-beam. If the edge is awkward, the overall pick lists a grommet option that bolts through a cable hole instead.
 
+One thing the three numbers do not cover: the moment the screen lifts off its stand, the cable that used to hide behind it is suddenly on show. Our [desk mat and cable management guide](best-desk-mat-and-cable-management-uk.html) deals with that half of the desk.
+
 ## How we chose
 
 Home Setup Picks is new, and we'd rather be straight about method than imply miles we haven't driven: these are spec-checked picks, not long-term tests. That means we verified each product's live listing, compared the published ratings - screen size, weight range, VESA support, mounting options, warranty - and scored them on the same rubric every guide on this site uses. Where a listing publishes less, the score says so rather than filling gaps with optimism, which is exactly what happened to the budget pick's capability number. No sponsored placements, and no prices or star ratings repeated here - listings drift, so check the live page.

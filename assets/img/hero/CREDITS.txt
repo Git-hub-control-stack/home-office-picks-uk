@@ -2,10 +2,11 @@ Hero images - source and licence record
 =========================================
 Pexels photos: https://www.pexels.com/license/ (free for commercial use, no attribution required).
 Owned photos: the editor's own product photographs. All cropped to 1200x630.
-Updated 2026-09-01 via fetch_heroes.py
+Updated 2026-09-02 via fetch_heroes.py
 
 accessories.jpg  Josh Sorenson  https://www.pexels.com/photo/black-flat-screen-computer-monitor-1714208/
 audio.jpg  Melike  B  https://www.pexels.com/photo/white-apple-airpods-on-macbook-10357008/
 chairs.jpg  Alpha En  https://www.pexels.com/photo/modern-home-office-with-ergonomic-chair-31726663/
 desks.jpg  Pavel Danilyuk  https://www.pexels.com/photo/a-monitor-on-a-height-adjustable-desk-8001036/
+posts/best-desk-mat-and-cable-management-uk.jpg  Minh Phuc  https://www.pexels.com/photo/a-desk-with-a-keyboard-and-mouse-on-it-28228014/
 posts/best-monitor-arm-uk.jpg  Josh Sorenson  https://www.pexels.com/photo/streaming-computer-setup-10782398/
