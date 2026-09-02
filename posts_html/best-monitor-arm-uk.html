@@ -232,8 +232,8 @@
 <li class="con">✗ A heavy 32in panel sits close to the 9kg ceiling, with little headroom left to hold position</li>
 <li class="con">✗ Makes no warranty promise we could verify, unlike the premium pick&#39;s 10 years</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone putting one ordinary monitor at eye level without fuss - the sensible default.
-<strong>Who it&#39;s not for:</strong> Owners of heavy ultrawides, who should weigh their panel and read the premium pick.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone putting one ordinary monitor at eye level without fuss - the sensible default.</p>
+<p><strong>Who it&#39;s not for:</strong> Owners of heavy ultrawides, who should weigh their panel and read the premium pick.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B07T3KCQ94?linkCode=ll2&tag=homesetuppicks-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Amazon Basics Single Monitor Stand (Height Adjustable Arm, Steel) - Best Budget</h3>
@@ -250,8 +250,8 @@
 <li class="con">✗ No weight or screen-size rating we could verify, so heavy panels are a gamble</li>
 <li class="con">✗ Height adjustment is the only movement its title commits to; the overall pick lists tilt, swivel and rotate</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> One everyday monitor, a normal desk edge, and a preference for spending less.
-<strong>Who it&#39;s not for:</strong> Anyone with a heavy or unusual monitor - buy an arm that publishes its ratings.</p>
+<p><strong>Who it&#39;s for:</strong> One everyday monitor, a normal desk edge, and a preference for spending less.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone with a heavy or unusual monitor - buy an arm that publishes its ratings.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B07DHK5DHN?linkCode=ll2&tag=homesetuppicks-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Ergotron LX Premium Monitor Arm (34in, 3.2-11.3kg) - Best Premium</h3>
@@ -269,8 +269,8 @@
 <li class="con">✗ Priced for an envelope a single ordinary monitor never uses</li>
 <li class="con">✗ Its published range starts at 3.2kg, so a very light panel sits outside it at the bottom end</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Ultrawide and heavy-panel owners, and anyone who wants the arm bought once and forgotten.
-<strong>Who it&#39;s not for:</strong> A standard 24-27in monitor on a budget - the savings belong elsewhere in your setup.</p>
+<p><strong>Who it&#39;s for:</strong> Ultrawide and heavy-panel owners, and anyone who wants the arm bought once and forgotten.</p>
+<p><strong>Who it&#39;s not for:</strong> A standard 24-27in monitor on a budget - the savings belong elsewhere in your setup.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B07Q8TJ2KL?linkCode=ll2&tag=homesetuppicks-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -346,17 +346,20 @@ A: Usually a mismatch, not a defect: the panel sits at the top of the arm&#39;s 
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }
