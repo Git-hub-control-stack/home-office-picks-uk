@@ -10,6 +10,8 @@ A desk goes untidy in two different places, and they want two different purchase
 
 Scorecard: Capability 8/10 - Versatility 6/10 - Build 6/10 - Value 8/10
 
+What keeps it off a 10: A 43cm depth wants a desk deeper than that, with clearance behind for a monitor foot or a clamp, so shallow desks miss out.
+
 The Nordik earns its place on footprint. Its listing gives the size as 89x43cm and the material as leather in a pebble black finish. That width is the figure that decides everything: it's enough for a full-size keyboard and a mouse to share one surface, which is the whole point of a mat over a mouse pad. The catch is depth rather than width. A pad 43cm deep wants a desk deeper than that, with room left behind it for a monitor foot or an arm clamp, so measure from the front edge backwards before ordering. If that measurement comes back short, the search to run is for a smaller desk pad rather than this one squeezed in at an angle. Beyond size, colour and the material name, this listing commits to very little, and the build score reflects that rather than guessing at thickness or backing.
 
 **Pros**
@@ -33,6 +35,8 @@ The Nordik earns its place on footprint. Its listing gives the size as 89x43cm a
 **HSP Score: 8.1 / 10** - Hides an extension block and its slack. Where the mess actually starts.
 
 Scorecard: Capability 6/10 - Versatility 6/10 - Build 6/10 - Value 7/10
+
+What keeps it off a 10: It hides the ends of the cables rather than the runs, so the floor still needs clips or a sleeve to finish the job.
 
 This box has one job: the extension block. The listing puts the outside length at 415mm and describes the material as electrically safe ABS, which is D-Line's wording about its own product rather than anything we have tested. The block and the slack that normally loops across the carpet both have to live inside the same shell, so 415mm of outside length is the figure to hold your own block up against before deciding this one is big enough. What it doesn't do is tidy the runs arriving at it, only the mess at the end of them, so plan on a handful of clips or a sleeve for the cable that crosses the floor. Measure the gap it will live in first, and use all three of the listing's figures while you are there: 165mm wide and 135mm tall is what has to clear a desk leg or a cupboard shelf, and that is more often the constraint than the 415mm length.
 

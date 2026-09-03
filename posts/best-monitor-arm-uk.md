@@ -10,6 +10,8 @@ A monitor arm is bought on three numbers, and most of the ways an arm disappoint
 
 Scorecard: Capability 8/10 - Versatility 9/10 - Build 6/10 - Value 8/10
 
+What keeps it off a 10: Its listing makes no warranty promise we could verify, and a heavy 32in panel sits close to the 9kg ceiling with little headroom.
+
 The HUANUO covers the widest slice of real desks, which is why it leads. Its listing rates it for 13 to 32 inch screens up to 9kg, with both VESA patterns (75x75 and 100x100) and a choice of C-clamp or grommet mounting, so it fits the monitor most people actually own and the desk they actually have. Height adjusts tool-free, and the head tilts, swivels and rotates for portrait work. That 9kg ceiling is the number to check first: most 24 to 27 inch monitors sit comfortably under it, but a heavy 32 inch panel can brush against it, and an arm at the top of its rating holds position less confidently than one with headroom.
 
 **Pros**
@@ -34,6 +36,8 @@ The HUANUO covers the widest slice of real desks, which is why it leads. Its lis
 
 Scorecard: Capability 6/10 - Versatility 7/10 - Build 6/10 - Value 8/10
 
+What keeps it off a 10: The listing publishes no weight or screen-size rating we could verify, so a heavy or unusual monitor is a gamble here.
+
 The honest budget case: if your monitor is a common size and your desk has a normal edge, this steel arm does the one job that matters - it gets the screen off its factory stand and up to eye level - and reclaims the desk space underneath. The spec sheet we could verify is short, which cuts both ways: you get steel construction and height adjustment, with cable routing through a hole in the back of the pole, but not the detailed weight and size ratings the other two picks publish. That's the trade at this end of the market, and it's why we score its capability conservatively rather than guessing on your behalf.
 
 **Pros**
@@ -56,6 +60,8 @@ The honest budget case: if your monitor is a common size and your desk has a nor
 **HSP Score: 8.8 / 10** - Rated for ultrawides to 34in and 11.3kg, with a 10-year warranty. The buy-once pick.
 
 Scorecard: Capability 8/10 - Versatility 7/10 - Build 10/10 - Value 6/10
+
+What keeps it off a 10: Its published range starts at 3.2kg, so a very light panel sits outside what this arm is rated to carry.
 
 The LX is the arm you buy when the numbers have to stretch furthest. Ergotron rates this one for flat, curved and ultrawide monitors up to 34 inches, across a published 3.2 to 11.3kg range, on either VESA pattern - the widest verified envelope here, with the heavy end covered properly rather than approached nervously. The build is the other half of the price: Ergotron backs the LX line with a 10-year warranty, which says more about the internals than any adjective could. The honest caveat is that a run-of-the-mill 24in panel doesn't need this envelope, and the value score reflects paying for capability you may never load.
 
