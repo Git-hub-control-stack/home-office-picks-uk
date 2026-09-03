@@ -1250,5 +1250,10 @@ body.sticky-dismissed .sticky-cta { display: none; }
 @media (max-width: 640px) {
   .brand-wordmark { width: 197px; height: 24px; }
 }
-/* 404 shows the wordmark above the message, on the hero's own left alignment. */
-.brand-wordmark-404 { display: block; width: 460px; max-width: 100%; height: auto; margin: 0 0 14px; }
+/* 404 shows the wordmark above the message, on the hero's own left alignment. The page-hero
+   surface is cream, so the cream words need the sand chip behind them (the wordmark is
+   drawn for the sand header). */
+.brand-wordmark-404 { display: block; box-sizing: content-box; width: 460px;
+  max-width: calc(100% - 36px); height: auto; margin: 0 0 14px;
+  background: linear-gradient(180deg, #c9b18f 0%, #bca47c 100%);
+  padding: 14px 18px; border-radius: 14px; }
