@@ -31,7 +31,7 @@ The Xiaomi goes on most desks for one reason: it is the only pick here that puts
 
 ### 2. Quntis 52cm Computer Monitor Lamp Bar (Auto-Dimming, 100 LED, Ra95) - Best Budget
 
-**HSP Score: 8.4 / 10** - 52cm auto-dimming lamp bar with 100 LEDs. The spend-less route.
+**HSP Score: 7.9 / 10** - 52cm auto-dimming lamp bar with 100 LEDs. The spend-less route.
 
 Scorecard: Capability 7/10 - Versatility 8/10 - Build 6/10 - Value 8/10
 
@@ -56,7 +56,7 @@ The Quntis is the spend-less pick and still does something the overall pick cann
 
 ### 3. BenQ ScreenBar Monitor Light Bar (Auto-Dimming, Glare-Free, USB) - Best Premium
 
-**HSP Score: 8.4 / 10** - Auto-dimming, glare-free, and USB powered. The buy-once pick.
+**HSP Score: 8.2 / 10** - Auto-dimming, glare-free, and USB powered. The buy-once pick.
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 6/10
 

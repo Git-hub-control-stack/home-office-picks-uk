@@ -32,7 +32,7 @@ The Nordik earns its place on footprint. Its listing gives the size as 89x43cm a
 
 ### 2. D-Line Cable Tidy Box Large (415mm, Black) - Best for Cable Management
 
-**HSP Score: 8.1 / 10** - Hides an extension block and its slack. Where the mess actually starts.
+**HSP Score: 7.9 / 10** - Hides an extension block and its slack. Where the mess actually starts.
 
 Scorecard: Capability 6/10 - Versatility 6/10 - Build 6/10 - Value 7/10
 

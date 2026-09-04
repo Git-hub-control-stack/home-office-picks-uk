@@ -32,7 +32,7 @@ The HUANUO covers the widest slice of real desks, which is why it leads. Its lis
 
 ### 2. Amazon Basics Single Monitor Stand (Height Adjustable Arm, Steel) - Best Budget
 
-**HSP Score: 8.3 / 10** - Steel height-adjustable arm with cable routing. The spend-less route.
+**HSP Score: 8.0 / 10** - Steel height-adjustable arm with cable routing. The spend-less route.
 
 Scorecard: Capability 6/10 - Versatility 7/10 - Build 6/10 - Value 8/10
 
@@ -57,7 +57,7 @@ The honest budget case: if your monitor is a common size and your desk has a nor
 
 ### 3. Ergotron LX Premium Monitor Arm (34in, 3.2-11.3kg) - Best Premium
 
-**HSP Score: 8.8 / 10** - Rated for ultrawides to 34in and 11.3kg, with a 10-year warranty. The buy-once pick.
+**HSP Score: 8.6 / 10** - Rated for ultrawides to 34in and 11.3kg, with a 10-year warranty. The buy-once pick.
 
 Scorecard: Capability 8/10 - Versatility 7/10 - Build 10/10 - Value 6/10
 
